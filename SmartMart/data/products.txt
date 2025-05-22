@@ -1,0 +1,50 @@
+Groceries:Rice:120.0:50
+Groceries:Wheat Flour:80.0:40
+Groceries:Sugar:60.0:30
+Groceries:Salt:20.0:100
+Groceries:Cooking Oil:220.0:25
+Groceries:Milk:90.0:20
+Groceries:Eggs:120.0:50
+Groceries:Bread:40.0:30
+Groceries:Lentils:75.0:45
+Groceries:Tea Leaves:150.0:15
+Electronics:Headphones:1500.0:10
+Electronics:Phone Charger:500.0:20
+Electronics:USB Drive:800.0:15
+Electronics:Mouse:600.0:12
+Electronics:Keyboard:1200.0:8
+Electronics:Power Bank:2000.0:10
+Electronics:Memory Card:700.0:25
+Electronics:Webcam:1800.0:5
+Electronics:Speakers:1600.0:7
+Electronics:HDMI Cable:300.0:30
+Clothing:T-Shirt:500.0:28
+Clothing:Jeans:1200.0:20
+Clothing:Socks:150.0:50
+Clothing:Cap:250.0:24
+Clothing:Jacket:2000.0:10
+Clothing:Sweater:800.0:15
+Clothing:Formal Shirt:900.0:12
+Clothing:Track Pants:700.0:17
+Clothing:Shorts:400.0:22
+Clothing:Scarf:300.0:20
+Household:Soap:40.0:100
+Household:Detergent:150.0:50
+Household:Toothpaste:90.0:60
+Household:Shampoo:180.0:40
+Household:Toilet Paper:120.0:80
+Household:Dish Soap:70.0:45
+Household:Air Freshener:110.0:30
+Household:Light Bulbs:60.0:50
+Household:Tissues:50.0:70
+Household:Hand Sanitizer:85.0:55
+Stationery:Notebook:50.0:100
+Stationery:Pen:20.0:200
+Stationery:Pencil:10.0:150
+Stationery:Eraser:15.0:100
+Stationery:Ruler:25.0:80
+Stationery:Glue:30.0:60
+Stationery:Scissors:45.0:40
+Stationery:Stapler:75.0:30
+Stationery:Tape:35.0:70
+Stationery:File Folder:40.0:50

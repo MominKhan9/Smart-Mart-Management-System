@@ -1,0 +1,5 @@
+cashier1:pass123:John Doe
+cashier2:pass456:Jane Smith
+cashier3:pass789:Mike Johnson
+alinaeem:123456:ali naeem arain 
+drx33:123456:danish rizwan
